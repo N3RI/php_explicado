@@ -1,0 +1,11 @@
+.htaccess
+error_log
+/extra
+/build
+/dist
+/docs
+/pages
+/plugins
+/neri
+/neri/BLOG/imagenes
+/neri/BLOG/*.ods*
